@@ -14,4 +14,4 @@
 
 ## Gavison CVS
 
-<img src="Images/GavisconCVS_Fig1.png" alt="Gaviscon CVS">
+<img src="Images/GavisconCVSHealth.png" alt="Gaviscon CVS">
