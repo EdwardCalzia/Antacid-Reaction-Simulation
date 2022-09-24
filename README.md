@@ -2,16 +2,16 @@
 
 ## Alka Seltzer
 
-<img src="AlkaSeltzer_Fig1.png" alt="AlkaSeltzer">
+<img src="Images/AlkaSeltzer_Fig1.png" alt="AlkaSeltzer">
 
 ## Tums
 
-<img src="Tums_Fig2.png" alt="Tums">
+<img src="Images/Tums_Fig2.png" alt="Tums">
 
 ## Rolaid
 
-<img src="Rolaid_Fig3.png" alt="Rolaid">
+<img src="Images/Rolaid_Fig3.png" alt="Rolaid">
 
 ## Gavison CVS
 
-<img src="GavisconCVS_Fig1.png" alt="Gaviscon CVS">
+<img src="Images/GavisconCVS_Fig1.png" alt="Gaviscon CVS">
